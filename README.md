@@ -1,0 +1,1 @@
+The included Conda [`environment.yml`](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#exporting-the-environment-yml-file) should allow this to be run using [Binder](https://mybinder.org).
