@@ -12,7 +12,7 @@
 ## and already I might have to restart the repo from scratch b/c it has
 ## become too large because of these notebooks but at least moving forward
 ## they are generated files anyway so shouldn't be included in version control
-*.ag.ipynb
+##*.ag.ipynb
 
 ## Pickle files are massive, each is like 5 gigabytes binary blob
 ## so maybe not best thing to keep in a git repo, you know
